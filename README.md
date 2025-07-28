@@ -1,7 +1,5 @@
 # Text-to-Image-Quality-Evaluator
 
-# Text-to-Image Quality Evaluator
-
 This project implements a Text-to-Image Quality Evaluator using a PyTorch-based model. The model, named TSPMGS, is designed to assess the quality of images generated from text prompts, considering both perceptual quality and alignment with the prompt. It uses the CLIP model for feature extraction from both images and text.
 
 -----
